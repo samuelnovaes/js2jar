@@ -20,5 +20,8 @@
   "license": "ISC",
   "dependencies": {
     "cli-color": "^1.1.0"
-  }
+  },
+  "bin": {
+    "js2jar": "index.js"
+  },
 }
