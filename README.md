@@ -3,8 +3,8 @@ Compile Nashorn script to Java application
 
 # Install
 1. Install dependêncies
-  - Node.js
-  - JDK 8
+  - [Node.js](https://nodejs.org/en/download/)
+  - [JDK 8](http://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html)
 2. Install Nashorn
 ```sh
 npm install -g js2jar
