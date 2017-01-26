@@ -1,6 +1,6 @@
 {
   "name": "js2jar",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Compile Nashorn JavaScript code to .jar",
   "main": "index.js",
   "scripts": {
@@ -18,9 +18,6 @@
   ],
   "author": "Samuel Novaes",
   "license": "ISC",
-  "dependencies": {
-    "cli-color": "^1.1.0"
-  },
   "bin": {
     "js2jar": "index.js"
   },
