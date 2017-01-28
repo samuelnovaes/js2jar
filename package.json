@@ -1,6 +1,6 @@
 {
 	"name": "js2jar",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "Compile Nashorn JavaScript code to .jar",
 	"main": "index.js",
 	"scripts": {

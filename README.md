@@ -24,7 +24,7 @@ or
 ```sh
 js2jar build path/to/myApp
 ```
-It will buil the application in the build directory
+It will build the application in the build directory
 
 # Project structure
 ```javascript
