@@ -1,24 +1,27 @@
 {
-  "name": "js2jar",
-  "version": "1.0.3",
-  "description": "Compile Nashorn JavaScript code to .jar",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/samuelnovaes/js2jar.git"
-  },
-  "keywords": [
-    "Java",
-    "JavaScript",
-    "Jar",
-    "Compile"
-  ],
-  "author": "Samuel Novaes",
-  "license": "ISC",
-  "bin": {
-    "js2jar": "index.js"
-  },
+	"name": "js2jar",
+	"version": "1.0.4",
+	"description": "Compile Nashorn JavaScript code to .jar",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/samuelnovaes/js2jar.git"
+	},
+	"keywords": [
+		"Java",
+		"JavaScript",
+		"Jar",
+		"Compile"
+	],
+	"author": "Samuel Novaes",
+	"license": "ISC",
+	"bin": {
+		"js2jar": "index.js"
+	},
+	"dependencies": {
+		"fs-extra": "^2.0.0"
+	}
 }
