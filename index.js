@@ -15,7 +15,7 @@ if(arg == "create"){
 		fs.mkdirSync(`${appName}/build/media`);
 		fs.mkdirSync(`${appName}/build/lib`);
 		fs.mkdirSync(`${appName}/src`);
-		fs.writeFileSync(`${appName}/src/main.js`, "//Write yout code here");
+		fs.writeFileSync(`${appName}/src/main.js`, "//Write your code here");
 	}
 	else{
 		console.log(`File or directory ${appName} already exists`);

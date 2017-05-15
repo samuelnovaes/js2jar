@@ -60,7 +60,7 @@ var JPanel = Java.type("javax.swing.JPanel");
 var JButton = Java.type("javax.swing.JButton");
 var JLabel = Java.type("javax.swing.JLabel");
 var ImageIcon = Java.type("javax.swing.ImageIcon");
-var MigLayout = Java.type("com.mylib.MyClass");
+var MyLib = Java.type("com.mylib.MyClass");
 
 var win = new JFrame("My Window");
 win.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
