@@ -17,7 +17,7 @@
 		"Compile"
 	],
 	"author": "Samuel Novaes",
-	"license": "ISC",
+	"license": "BSD-3-Clause",
 	"bin": {
 		"js2jar": "index.js"
 	},
